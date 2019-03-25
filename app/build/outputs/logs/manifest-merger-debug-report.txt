@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3128f256b389abb9a6df3742d7ac5c1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a305c33b7736edf2503b8849121f68a7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\1d3d86ebe3de1c82b721a293162af614\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ff7e5ee5bef45dcd2d0dd84f8f10e914\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\16d51c41a24d6d2e203dfea426d70a08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\99feb989ad65fa66aa4874fc148c7f20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\41d50073affc7de8c4d74a2b06424be5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\2890ff4395ce32cf6fec6c9bef6979c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3967aceaaf24934a8314b036746b4ebb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9600587da193ebe5ff514a6359de762a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c436a3b2aa8edcee5b01326c29285d14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\37ab6dc22ebf072659e37667ccd4b912\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1c7d4155f9a3b897c4e691af6d888bdb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e12f37701cb06cbca58b7795218793e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ee4cd2d4089a11caed26b2ffde50b478\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\179ec5e2ab21ce9032f7811b1c96642d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cfe24cdd5534dbc61e8981cdda45cfdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\29ccc539b40f3bfdd3a122fa82d713e0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4d963022f93e3e4b6e5302cfc5cd546a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f9e9bacdf8da2df6acdfbc222d6a1f0e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7a42f0883cfeab539096c59d0391fd84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0659bd1292756f681b979bb2a1eef68f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\feb578d18640e730c33e8cd4a341e946\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\81d3b22da29948a4e32904845f688dfc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\fdd9ee55769325960919c7090866b5c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\062cc6d14f3a84a0b175d4285f816ab2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bb22267659ecbf8c9bab365d8c9465b9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4498a0b68c5b68f1333bd92f7bfbd2cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\82543eb4eb94db10582bdd4aec678362\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a305c33b7736edf2503b8849121f68a7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a305c33b7736edf2503b8849121f68a7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\1d3d86ebe3de1c82b721a293162af614\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\1d3d86ebe3de1c82b721a293162af614\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\29ccc539b40f3bfdd3a122fa82d713e0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\29ccc539b40f3bfdd3a122fa82d713e0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4d963022f93e3e4b6e5302cfc5cd546a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4d963022f93e3e4b6e5302cfc5cd546a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\29ccc539b40f3bfdd3a122fa82d713e0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.b.dentes3.Login
+ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:16:19-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.b.dentes3.Registro
+ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:23:9-46
+	android:name
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:23:19-43
+activity#com.b.dentes3.Pprincipal
+ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:24:9-48
+	android:name
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:24:19-45
+activity#com.b.dentes3.emergencias
+ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:25:9-49
+	android:name
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:25:19-46
+activity#com.b.dentes3.AgendarCita
+ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:26:19-46
+activity#com.b.dentes3.Historial
+ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:27:9-56
+	android:name
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml:27:19-44
+uses-sdk
+INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3128f256b389abb9a6df3742d7ac5c1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3128f256b389abb9a6df3742d7ac5c1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a305c33b7736edf2503b8849121f68a7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a305c33b7736edf2503b8849121f68a7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\1d3d86ebe3de1c82b721a293162af614\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\1d3d86ebe3de1c82b721a293162af614\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ff7e5ee5bef45dcd2d0dd84f8f10e914\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ff7e5ee5bef45dcd2d0dd84f8f10e914\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\16d51c41a24d6d2e203dfea426d70a08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\16d51c41a24d6d2e203dfea426d70a08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\99feb989ad65fa66aa4874fc148c7f20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\99feb989ad65fa66aa4874fc148c7f20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\41d50073affc7de8c4d74a2b06424be5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\41d50073affc7de8c4d74a2b06424be5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\2890ff4395ce32cf6fec6c9bef6979c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\2890ff4395ce32cf6fec6c9bef6979c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3967aceaaf24934a8314b036746b4ebb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3967aceaaf24934a8314b036746b4ebb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9600587da193ebe5ff514a6359de762a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9600587da193ebe5ff514a6359de762a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c436a3b2aa8edcee5b01326c29285d14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c436a3b2aa8edcee5b01326c29285d14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\37ab6dc22ebf072659e37667ccd4b912\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\37ab6dc22ebf072659e37667ccd4b912\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1c7d4155f9a3b897c4e691af6d888bdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1c7d4155f9a3b897c4e691af6d888bdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e12f37701cb06cbca58b7795218793e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e12f37701cb06cbca58b7795218793e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ee4cd2d4089a11caed26b2ffde50b478\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ee4cd2d4089a11caed26b2ffde50b478\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\179ec5e2ab21ce9032f7811b1c96642d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\179ec5e2ab21ce9032f7811b1c96642d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cfe24cdd5534dbc61e8981cdda45cfdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cfe24cdd5534dbc61e8981cdda45cfdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\29ccc539b40f3bfdd3a122fa82d713e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\29ccc539b40f3bfdd3a122fa82d713e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4d963022f93e3e4b6e5302cfc5cd546a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4d963022f93e3e4b6e5302cfc5cd546a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f9e9bacdf8da2df6acdfbc222d6a1f0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f9e9bacdf8da2df6acdfbc222d6a1f0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7a42f0883cfeab539096c59d0391fd84\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7a42f0883cfeab539096c59d0391fd84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0659bd1292756f681b979bb2a1eef68f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0659bd1292756f681b979bb2a1eef68f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\feb578d18640e730c33e8cd4a341e946\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\feb578d18640e730c33e8cd4a341e946\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\81d3b22da29948a4e32904845f688dfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\81d3b22da29948a4e32904845f688dfc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\fdd9ee55769325960919c7090866b5c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\fdd9ee55769325960919c7090866b5c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\062cc6d14f3a84a0b175d4285f816ab2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\062cc6d14f3a84a0b175d4285f816ab2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bb22267659ecbf8c9bab365d8c9465b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bb22267659ecbf8c9bab365d8c9465b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4498a0b68c5b68f1333bd92f7bfbd2cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4498a0b68c5b68f1333bd92f7bfbd2cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\82543eb4eb94db10582bdd4aec678362\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\adria\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\82543eb4eb94db10582bdd4aec678362\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adria\Downloads\PIA_LAB_MOVIL\Dentes3\app\src\main\AndroidManifest.xml
